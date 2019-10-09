@@ -55,3 +55,4 @@
 "Requested quote was not found","Kért ajánlat nem található",module,Magento_NegotiableQuote
 "Sales","Eladások",module,Magento_NegotiableQuote
 "Quotes","Ajánlatok",module,Magento_NegotiableQuote
+"As Low as","több darabnál",module,Magento_Bundle
